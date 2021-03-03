@@ -1,4 +1,0 @@
-discord
-wikipedia
-dotenv
-asyncio
